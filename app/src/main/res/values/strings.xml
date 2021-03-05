@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="welcome_message">Pick your birthday , to know exactly how old are you . and some info about events happened that day.</string>
+    <string name="pick_date_button">pick your birthday</string>
+    <string name="adUnitId" translatable="false">ca-app-pub-2556925527469330/9886505794</string>
+    <string name="APPLICATION_ID" translatable="false">ca-app-pub-2556925527469330~9241576105</string>
+    <string name="ageMessageyouare">You are</string>
+    <string name="ageMessageYears">Year(s)</string>
+    <string name="ageMessageMonths">month(s)</string>
+    <string name="ageMessageDays">Day(s)</string>
+
+</resources>

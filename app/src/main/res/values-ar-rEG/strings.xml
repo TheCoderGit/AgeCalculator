@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="welcome_message">اختار يوم ميلادك . وهتعرف بالظبط عمرك باليوم والشهر والسنة. وكمان احداث تاريخية حصلت في نفس اليوم</string>
+    <string name="pick_date_button">اختار تاريخ الميلاد</string>
+    <string name="ageMessageyouare">عمرك الان</string>
+    <string name="ageMessageYears">سنين و</string>
+    <string name="ageMessageMonths">شهور و</string>
+    <string name="ageMessageDays">ايام</string>
+</resources>
